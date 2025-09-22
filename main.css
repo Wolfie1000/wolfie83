@@ -1,0 +1,35 @@
+/*
+declaration block:
+
+selection{
+property: value;
+property: vulue;
+}
+*/
+
+body{
+    background-color: rgb(12, 12, 197);
+    color: whitesmoke;
+}
+
+nav{
+    height: 600px;
+    width: 20opx;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage{
+    margin-right: 200px;
+    width: 600px;
+}
+
+h1{
+    text-align: center;
+}
